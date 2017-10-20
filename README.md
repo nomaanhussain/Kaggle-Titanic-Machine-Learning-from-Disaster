@@ -9,5 +9,5 @@
 	* Replace the missing data by mean of column
 	* Encoding the sex column (Using OneHotEncoders)
 	* Reducing the features using Backward Elimination Technique (adjusted R-squared intuition)
-	* Using Naive Bayes with some parameter tuning
+	* Using Kernel SVM with some parameter tuning
 	* Accuracy is 79.425%
